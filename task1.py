@@ -23,8 +23,8 @@ def hgnx_info():
     "current_day": current_time.strftime("%A"),
     "utc_time": current_time.strftime("%Y-%m-%dT%H:%M:%SZ"),
     "track": track,
-    "github_file_url": "https://github.com/nabil2i",
-    "github_repo_url": "https://github.com/nabil2i",
+    "github_file_url": "https://github.com/nabil2i/hgnx-stage1/blob/main/task1.py",
+    "github_repo_url": "https://github.com/nabil2i/hgnx-stage1",
     "status_code": 200
   }
   
